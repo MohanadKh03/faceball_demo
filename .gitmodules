@@ -1,0 +1,6 @@
+[submodule "social-media-app"]
+	path = social-media-app
+	url = https://github.com/MazenSamehR/social-media-app.git
+[submodule "GameBall-Frontend-Project"]
+	path = GameBall-Frontend-Project
+	url = https://github.com/Nour-2003/GameBall-Frontend-Project
